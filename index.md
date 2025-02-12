@@ -6,26 +6,39 @@ layout: default
 {{ site.data.cv.title }}
 
 
-## Summary
-
-
 <div id="skills-section">
 
   {% capture skills_content %}
   {% include skills.md %}
   {% endcapture %}
 
+  {% capture summary_content %}
+  {% include summary.md %}
+  {% endcapture %}
+  
+  {{ "## Summary" | markdownify }}
+  {{ summary_content | markdownify }}
+  {{ description_content | markdownify }}
   {{ "## Skills" | markdownify }}
   {{ skills_content | markdownify }}
   
 </div>
 
-{{ site.data.cv.summary }}
+<div id="research-interests-section">
 
-{{ site.data.cv.description }}
+  {% capture research_interests_content %}
+  {% include research_interests.md %}
+  {% endcapture %}
 
+  {{ "## Research Interests" | markdownify }}
+  {{ research_interests_content | markdownify }}
+
+</div>
+
+{% include publications.md %}
 
 {% include experience.md %}
+
 
 {% include education.md %}
 

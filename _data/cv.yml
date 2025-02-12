@@ -3,6 +3,11 @@ title: Research Fellow, University of Insubria
 summary: Deep Learning for cyber-sec | Ethical-AI
 description: My background combines Machine Learning and Software Engineering. I do research on Cybersecurity and Human-oriented AI.
 
+research_interests:
+  - Human-oriented Neural Language Models
+  - Deep Learning for cyber-sercurity
+  - Symbolic inductive biases in Deep Learning
+
 experience:
 
   - position: Research Fellow
@@ -73,3 +78,4 @@ projects:
     description: A responsive portfolio website showcasing my projects and skills. Built with HTML, CSS, and JavaScript.
   - name: Task Management App
     description: A full-stack web application for managing tasks and projects. Built with React, Node.js, and MongoDB.
+
