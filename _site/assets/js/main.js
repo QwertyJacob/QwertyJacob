@@ -15,3 +15,23 @@ function generatePDF() {
 
     html2pdf().from(element).set(opt).save();
 }
+
+function toggleView() {
+    document.body.classList.toggle('academic');
+    document.body.classList.toggle('industrial');
+    
+    // Toggle skills section visibility
+    const skillsSection = document.querySelector('#skills-section');
+    if (skillsSection) {
+        skillsSection.classList.toggle('hidden');
+    }
+    
+    
+    // Update button text
+    const toggleButton = document.querySelector('#viewToggle');
+    if (toggleButton) {
+        toggleButton.textContent = document.body.classList.contains('academic') 
+            ? 'Switch to Industrial' 
+            : 'Switch to Academic';
+    }
+}

@@ -1,6 +1,11 @@
 ---
 ---
 
+/* Hide elements with the hidden class */
+.hidden {
+    display: none !important;
+}
+
 /* Base styles */
 body {
     font-family: Arial, sans-serif;
@@ -18,7 +23,7 @@ h1, h2 {
     margin-bottom: 10px;
 }
 /* Formal template styles */
-.formal {
+.formal {   
     background-color: #f4f4f4;
     color: #333;
 }
@@ -41,6 +46,8 @@ h1, h2 {
     color: #4ecdc4;
     border-bottom: 2px solid #4ecdc4;
 }
+
+
 /* Button styles */
 .button-container {
     display: flex;
@@ -69,3 +76,4 @@ button {
 .sporty button:hover {
     background-color: #ff4757;
 }
+
