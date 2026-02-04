@@ -37,8 +37,9 @@ layout: default
 
 {% include publications.md %}
 
-{% include experience.md %}
+{% include services.md %}
 
+{% include experience.md %}
 
 {% include education.md %}
 
