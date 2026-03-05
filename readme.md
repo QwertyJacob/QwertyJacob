@@ -44,7 +44,7 @@ Survey on open-source ethical AI developments
 Can LLMs resist harmful representation engineering???
 
 
-[![Preprint](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174914038.83893553)
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0952197626005981)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QwertyJacob/genetica) ![Stars](https://img.shields.io/github/stars/QwertyJacob/genetica?style=for-the-badge&logo=github&logoColor=white)
 
 ---
