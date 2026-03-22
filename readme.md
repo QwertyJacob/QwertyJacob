@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Jesús F. Cevallos-Moreno
+<div align="center">
+[![Check my new tutorial on Deep Active Inference!](https://img.shields.io/badge/Check_my_new_tutorial_on-Deep_Active_Inference-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QwertyJacob/deep_active_inference_tutorial)
+</div>
 
+<br>
 <div align="center">
 
 ### 🧠 I am postdoc researcher and lecturer @ University of Insubria 
