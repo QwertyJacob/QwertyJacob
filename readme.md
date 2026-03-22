@@ -1,9 +1,5 @@
 # 👋 Hey, I'm Jesús F. Cevallos-Moreno
-<div align="center">
-[![Check my new tutorial on Deep Active Inference!](https://img.shields.io/badge/Check_my_new_tutorial_on-Deep_Active_Inference-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QwertyJacob/deep_active_inference_tutorial)
-</div>
 
-<br>
 <div align="center">
 
 ### 🧠 I am postdoc researcher and lecturer @ University of Insubria 
@@ -13,6 +9,37 @@
 [![Twitter](https://img.shields.io/badge/X-@JesusCevallos9-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JesusCevallos9)
 [![Website](https://img.shields.io/badge/Website-dista.uninsubria.it-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.dista.uninsubria.it/~jesus.cevallos/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=26o39YMAAAAJ&hl=en)
+</div>
+<div align="center" style="background: linear-gradient(135deg, #FF6B6B, #ff8e8e); 
+                            padding: 40px 20px; 
+                            border-radius: 16px; 
+                            margin: 20px 0 40px; 
+                            box-shadow: 0 8px 32px rgba(255,107,107,0.3); 
+                            max-width: 100%;">
+
+  <h2 style="color: white; margin: 0; font-size: 2.8em; font-weight: bold; 
+             text-shadow: 2px 2px 8px rgba(0,0,0,0.4);">
+    New Tutorial Out Now!
+  </h2>
+
+  <p style="color: white; font-size: 1.5em; margin: 20px 0 30px; 
+            max-width: 800px;">
+    Deep Active Inference — from basics to advanced implementations in PyTorch
+  </p>
+
+  <a href="https://github.com/QwertyJacob/deep_active_inference_tutorial"
+     style="background-color: white; 
+            color: #FF6B6B; 
+            font-size: 1.4em; 
+            font-weight: bold; 
+            padding: 18px 48px; 
+            border-radius: 50px; 
+            text-decoration: none; 
+            box-shadow: 0 6px 20px rgba(0,0,0,0.25); 
+            transition: all 0.3s ease;">
+    👉 Check the Tutorial Now!
+  </a>
+
 </div>
 
 <div align="center">
@@ -24,6 +51,10 @@
 **Human-centred Language models**
 
 </div>
+
+<br>
+
+<br>
 
 ## 🎯 Recent Publications 
 
