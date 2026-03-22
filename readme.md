@@ -24,7 +24,7 @@
 
   <p style="color: white; font-size: 1.5em; margin: 20px 0 30px; 
             max-width: 800px;">
-    Deep Active Inference — from basics to advanced implementations in PyTorch
+    Deep Active Inference  in PyTorch
   </p>
 
   <a href="https://github.com/QwertyJacob/deep_active_inference_tutorial"
