@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jesús F. Cevallos-Moreno | Academic Profile</title>
+    <!-- Tailwind CSS for modern styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <!-- AOS for scroll animations -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#FF6B6B',
+                        secondary: '#4285F4',
+                        dark: '#1a1a1a',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['Fira Code', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        html { scroll-behavior: smooth; }
+        .gradient-text {
+            background: linear-gradient(135deg, #FF6B6B 0%, #ff8e8e 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero-gradient {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+        }
+        .card-hover {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        /* Fix for AOS hidden elements in screenshots */
+        .aos-init[data-aos].aos-animate {
+            opacity: 1 !important;
+            transform: none !important;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-900 font-sans">
+
+    <!-- Navigation -->
+    <nav class="fixed w-full z-50 bg-white/90 backdrop-blur-md border-b border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="text-xl font-bold gradient-text font-mono">Jesús.Cevallos()</div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="#home" class="hover:text-primary font-medium transition">Home</a>
+                    <a href="#research" class="hover:text-primary font-medium transition">Research</a>
+                    <a href="#publications" class="hover:text-primary font-medium transition">Publications</a>
+                    <a href="#teaching" class="hover:text-primary font-medium transition">Teaching</a>
+                    <a href="#stats" class="hover:text-primary font-medium transition">Analytics</a>
+                    <a href="#contact" class="hover:text-primary font-medium transition">Connect</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-gradient min-h-[80vh] flex items-center pt-20 relative overflow-hidden">
+        <div class="absolute inset-0 opacity-10 pointer-events-none">
+            <svg class="h-full w-full" viewBox="0 0 100 100" preserveAspectRatio="none">
+                <path d="M0 100 L100 0 L100 100 Z" fill="#FF6B6B"></path>
+            </svg>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10 py-12">
+            <div class="flex flex-col md:flex-row items-center gap-12">
+                <div class="flex-shrink-0" data-aos="fade-right">
+                    <div class="relative">
+                        <div class="absolute -inset-1 bg-primary rounded-full blur opacity-30"></div>
+                        <img src="https://via.placeholder.com/200" alt="Jesús F. Cevallos-Moreno" class="relative w-48 h-48 md:w-64 md:h-64 rounded-full border-4 border-white object-cover shadow-2xl">
+                    </div>
+                </div>
+                <div class="text-center md:text-left" data-aos="fade-left">
+                    <h1 class="text-4xl md:text-6xl font-extrabold text-white mb-4">
+                        Jesús F. <span class="text-primary">Cevallos-Moreno</span>
+                    </h1>
+                    <p class="text-xl md:text-2xl text-gray-300 font-light mb-8 max-w-2xl">
+                        Postdoc Researcher & Lecturer at <br class="hidden md:block">
+                        <span class="text-white font-semibold underline decoration-primary underline-offset-4">University of Insubria</span>
+                    </p>
+                    <div class="flex flex-wrap justify-center md:justify-start gap-4">
+                        <a href="https://orcid.org/0000-0003-2752-4616" target="_blank" class="px-6 py-3 bg-white/10 hover:bg-white/20 text-white rounded-full transition border border-white/20 flex items-center gap-2">
+                            <i class="fa-brands fa-orcid text-[#A6CE39]"></i> ORCID
+                        </a>
+                        <a href="https://www.linkedin.com/in/jesuscevallos/" target="_blank" class="px-6 py-3 bg-[#0A66C2] hover:bg-opacity-90 text-white rounded-full transition flex items-center gap-2">
+                            <i class="fa-brands fa-linkedin"></i> LinkedIn
+                        </a>
+                        <a href="https://scholar.google.com/citations?user=26o39YMAAAAJ" target="_blank" class="px-6 py-3 bg-[#4285F4] hover:bg-opacity-90 text-white rounded-full transition flex items-center gap-2">
+                            <i class="fa-solid fa-graduation-cap"></i> Google Scholar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Research Focus -->
+    <section id="research" class="py-24 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">🔬 Research Focus</h2>
+                <div class="h-1.5 w-20 bg-primary mx-auto rounded-full"></div>
+            </div>
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="p-8 rounded-2xl bg-gray-50 border-l-8 border-primary shadow-sm card-hover" data-aos="fade-up" data-aos-delay="100">
+                    <div class="text-primary text-4xl mb-4"><i class="fa-solid fa-shield-halved"></i></div>
+                    <h3 class="text-2xl font-bold mb-3">Cybersecurity & Inductive Biases</h3>
+                    <p class="text-gray-600 leading-relaxed">Researching Algorithmic Reasoning Inductive Biases specifically tailored for advanced cybersecurity defense mechanisms and threat detection.</p>
+                </div>
+                <div class="p-8 rounded-2xl bg-gray-50 border-l-8 border-secondary shadow-sm card-hover" data-aos="fade-up" data-aos-delay="200">
+                    <div class="text-secondary text-4xl mb-4"><i class="fa-solid fa-brain"></i></div>
+                    <h3 class="text-2xl font-bold mb-3">Human-Centred AI</h3>
+                    <p class="text-gray-600 leading-relaxed">Developing and analyzing Language Models with a focus on human-centric interactions, ethical treatment, and societal impact.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section id="publications" class="py-24 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">🎯 Recent Publications</h2>
+                <p class="text-gray-500 text-lg">"Two-Stream" research overview in Security and Ethical AI</p>
+                <div class="h-1.5 w-20 bg-primary mx-auto rounded-full mt-4"></div>
+            </div>
+
+            <div class="grid lg:grid-cols-2 gap-x-12 gap-y-16">
+                <!-- Stream 1: Security & Neural Reasoning -->
+                <div data-aos="fade-right">
+                    <h3 class="text-2xl font-bold mb-8 flex items-center gap-3 text-dark">
+                        <span class="p-2 bg-primary/10 rounded-lg text-primary"><i class="fa-solid fa-code"></i></span>
+                        Security & Neural Reasoning
+                    </h3>
+                    <div class="space-y-6">
+                        <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primary card-hover">
+                            <h4 class="font-bold text-lg mb-2"><a href="https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence" target="_blank" class="hover:text-primary transition">ACID: Active Inference for Cyber-Defence</a></h4>
+                            <p class="text-sm text-gray-500 italic mb-4">TechRXiv Preprint, 2025</p>
+                            <div class="flex gap-2">
+                                <a href="https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-blue-100 text-blue-700 rounded-full hover:bg-blue-200 transition">PAPER</a>
+                                <a href="https://github.com/DISTA-IoT/smartville" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-gray-100 text-gray-700 rounded-full hover:bg-gray-200 transition">REPO</a>
+                            </div>
+                        </div>
+                        <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primary card-hover">
+                            <h4 class="font-bold text-lg mb-2"><a href="https://www.sciencedirect.com/science/article/pii/S1389128624006601" target="_blank" class="hover:text-primary transition">ASAP: Automatic Synthesis of Attack Prototypes</a></h4>
+                            <p class="text-sm text-gray-500 italic mb-4">Computer Networks, 2024</p>
+                            <div class="flex gap-2">
+                                <a href="https://www.sciencedirect.com/science/article/pii/S1389128624006601" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-blue-100 text-blue-700 rounded-full hover:bg-blue-200 transition">PAPER</a>
+                                <a href="https://github.com/DISTA-IoT/smartville" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-gray-100 text-gray-700 rounded-full hover:bg-gray-200 transition">REPO</a>
+                            </div>
+                        </div>
+                        <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primary card-hover">
+                            <h4 class="font-bold text-lg mb-2"><a href="https://www.sciencedirect.com/science/article/pii/S0167404824002001" target="_blank" class="hover:text-primary transition">NERO: Neural Reasoning for IoT</a></h4>
+                            <p class="text-sm text-gray-500 italic mb-4">Computers & Security, 2024</p>
+                            <div class="flex gap-2">
+                                <a href="https://www.sciencedirect.com/science/article/pii/S0167404824002001" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-blue-100 text-blue-700 rounded-full hover:bg-blue-200 transition">PAPER</a>
+                                <a href="https://github.com/QwertyJacob/NERO" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-gray-100 text-gray-700 rounded-full hover:bg-gray-200 transition">REPO</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Stream 2: Ethical-AI & Human-Centric Systems -->
+                <div data-aos="fade-left">
+                    <h3 class="text-2xl font-bold mb-8 flex items-center gap-3 text-dark">
+                        <span class="p-2 bg-secondary/10 rounded-lg text-secondary"><i class="fa-solid fa-robot"></i></span>
+                        Ethical-AI & Human-Centric Systems
+                    </h3>
+                    <div class="space-y-6">
+                        <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-secondary card-hover">
+                            <h4 class="font-bold text-lg mb-2"><a href="https://dl.acm.org/doi/10.1145/3703454" target="_blank" class="hover:text-primary transition">Open-Ethical AI: Advances in Human-Centric NLMs</a></h4>
+                            <p class="text-sm text-gray-500 italic mb-4">ACM Computing Surveys, 2024</p>
+                            <div class="flex gap-2">
+                                <a href="https://dl.acm.org/doi/10.1145/3703454" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-blue-100 text-blue-700 rounded-full hover:bg-blue-200 transition">PAPER</a>
+                            </div>
+                        </div>
+                        <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-secondary card-hover">
+                            <h4 class="font-bold text-lg mb-2"><a href="https://www.sciencedirect.com/science/article/pii/S0952197626005981" target="_blank" class="hover:text-primary transition">Ethical Treatment of Language Models</a></h4>
+                            <p class="text-sm text-gray-500 italic mb-4">TechRXiv Preprint, 2026</p>
+                            <div class="flex gap-2">
+                                <a href="https://www.sciencedirect.com/science/article/pii/S0952197626005981" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-blue-100 text-blue-700 rounded-full hover:bg-blue-200 transition">PAPER</a>
+                                <a href="https://github.com/QwertyJacob/genetica" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-gray-100 text-gray-700 rounded-full hover:bg-gray-200 transition">REPO</a>
+                            </div>
+                        </div>
+                        <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-secondary card-hover">
+                            <h4 class="font-bold text-lg mb-2"><a href="https://www.mdpi.com/1999-5903/13/11/278" target="_blank" class="hover:text-primary transition">Deep RL for vCDN SFC Deployment</a></h4>
+                            <p class="text-sm text-gray-500 italic mb-4">Future Internet, 2021</p>
+                            <div class="flex gap-2">
+                                <a href="https://www.mdpi.com/1999-5903/13/11/278" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-blue-100 text-blue-700 rounded-full hover:bg-blue-200 transition">PAPER</a>
+                                <a href="https://github.com/QwertyJacob/e2d4qn_vcdn_sfc_deployment" target="_blank" class="text-xs font-bold px-4 py-1.5 bg-gray-100 text-gray-700 rounded-full hover:bg-gray-200 transition">REPO</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GitHub Stats Section -->
+    <section id="stats" class="py-24 bg-dark text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">📊 GitHub Analytics</h2>
+                <div class="h-1.5 w-20 bg-primary mx-auto rounded-full mt-4"></div>
+            </div>
+            <div class="flex flex-col items-center gap-12" data-aos="zoom-in">
+                <div class="flex flex-wrap justify-center gap-6">
+                    <img src="https://github-readme-stats.vercel.app/api?username=QwertyJacob&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff" alt="GitHub Stats" class="max-w-full">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwertyJacob&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff&hide=html,css,jupyter%20notebook" alt="Top Languages" class="max-w-full">
+                </div>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyJacob&theme=dracula&hide_border=true&background=00000000&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="Streak Stats" class="max-w-full">
+            </div>
+        </div>
+    </section>
+
+    <!-- Teaching Section -->
+    <section id="teaching" class="py-24 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">🧑‍🏫 Teaching & Mentoring</h2>
+                <div class="h-1.5 w-20 bg-primary mx-auto rounded-full mt-4"></div>
+            </div>
+
+            <div class="grid lg:grid-cols-2 gap-12 items-start">
+                <div class="space-y-8" data-aos="fade-right">
+                    <h3 class="text-2xl font-bold mb-6 underline decoration-primary underline-offset-8 decoration-4">Academic Courses</h3>
+                    <div class="bg-gray-50 p-6 rounded-xl border border-gray-100 card-hover">
+                        <h4 class="font-bold text-lg mb-2">Probability for Computer Scientists</h4>
+                        <p class="text-gray-600 mb-4">Supporting teaching with interactive Google Colab notebooks for students at University of Insubria.</p>
+                        <a href="https://github.com/QwertyJacob/colab_handouts_PSI" target="_blank" class="inline-flex items-center gap-2 text-primary hover:underline font-semibold">
+                            <i class="fa-brands fa-github"></i> Notebook Repository
+                        </a>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-xl border border-gray-100 card-hover">
+                        <h4 class="font-bold text-lg mb-2">Active Inference Made Easy</h4>
+                        <p class="text-gray-600 mb-4">A complete pedagogical journey through PyTorch and Linear Algebra for cognitive modeling.</p>
+                        <a href="https://colab.research.google.com/github/QwertyJacob/colab_handouts_PSI/blob/main/BONUSX_ActiveInference.ipynb" target="_blank" class="inline-flex items-center gap-2 text-primary hover:underline font-semibold">
+                            <i class="fa-solid fa-rocket"></i> Open In Colab
+                        </a>
+                    </div>
+                </div>
+
+                <div data-aos="fade-left">
+                    <h3 class="text-2xl font-bold mb-6 underline decoration-secondary underline-offset-8 decoration-4">Guest Lectures</h3>
+                    <div class="overflow-hidden rounded-xl border border-gray-200 shadow-sm">
+                        <table class="w-full text-left">
+                            <thead class="bg-gray-100 text-gray-700 font-bold text-sm uppercase tracking-wider">
+                                <tr>
+                                    <th class="px-6 py-4">Topic</th>
+                                    <th class="px-6 py-4">Venue</th>
+                                    <th class="px-6 py-4">Resources</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-gray-200 text-sm">
+                                <tr class="hover:bg-gray-50 transition">
+                                    <td class="px-6 py-4 font-semibold">Active Inference Intro</td>
+                                    <td class="px-6 py-4">Insubria, 2025</td>
+                                    <td class="px-6 py-4 text-primary flex gap-4">
+                                        <a href="https://www.canva.com/design/DAG4ZGjAg4M/z_UESq1lCMfOoTS402CAYA/view" target="_blank" title="Slides"><i class="fa-solid fa-display text-lg"></i></a>
+                                        <a href="https://docs.google.com/document/d/1kFPLwgz3UQF60vC1MspOsBaorbto7ZDq7yoL3XflLsI/edit" target="_blank" title="Handout"><i class="fa-solid fa-file-lines text-lg"></i></a>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-gray-50 transition">
+                                    <td class="px-6 py-4 font-semibold">AI & Anthropology</td>
+                                    <td class="px-6 py-4">UTPL, 2024</td>
+                                    <td class="px-6 py-4 text-primary flex gap-4">
+                                        <a href="https://www.canva.com/design/DAGnb0BE-nQ/Ftz1zY-xy0e6j8oFoqixDA/view" target="_blank" title="Slides"><i class="fa-solid fa-display text-lg"></i></a>
+                                        <a href="https://www.youtube.com/watch?v=xPx6QKY4InM" target="_blank" title="Video"><i class="fa-brands fa-youtube text-lg"></i></a>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-gray-50 transition">
+                                    <td class="px-6 py-4 font-semibold">Inductive Biases</td>
+                                    <td class="px-6 py-4">Federico II, 2024</td>
+                                    <td class="px-6 py-4 text-primary">
+                                        <a href="https://www.canva.com/design/DAGQWFO1zls/h-t85UhVlwthTTNjcLNeYQ/view" target="_blank" title="Slides"><i class="fa-solid fa-display text-lg"></i></a>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-gray-50 transition">
+                                    <td class="px-6 py-4 font-semibold">AI working principles</td>
+                                    <td class="px-6 py-4">Insubria, 2024</td>
+                                    <td class="px-6 py-4 text-primary">
+                                        <a href="https://www.canva.com/design/DAGUOyGESSE/6j2h1A14A7_3iowuPftK2g/view" target="_blank" title="Slides"><i class="fa-solid fa-display text-lg"></i></a>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-gray-50 transition">
+                                    <td class="px-6 py-4 font-semibold">ML meets IoT</td>
+                                    <td class="px-6 py-4">Insubria, 2023</td>
+                                    <td class="px-6 py-4 text-primary">
+                                        <a href="https://www.canva.com/design/DAGJDK1WUKE/W_Lg-aG-pHOrssSHnEi6Bg/view" target="_blank" title="Slides"><i class="fa-solid fa-display text-lg"></i></a>
+                                    </td>
+                                </tr>
+                                <tr class="hover:bg-gray-50 transition">
+                                    <td class="px-6 py-4 font-semibold">AI and Cybersecurity</td>
+                                    <td class="px-6 py-4">Insubria, 2023</td>
+                                    <td class="px-6 py-4 text-primary">
+                                        <a href="https://www.canva.com/design/DAF0D9SRgL8/bZ-BtJuqrG27mzxosv7hhg/view" target="_blank" title="Slides"><i class="fa-solid fa-display text-lg"></i></a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <footer id="contact" class="bg-dark text-white pt-24 pb-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">💬 Let's Connect</h2>
+                <p class="text-gray-400 max-w-xl mx-auto text-lg">Open for research collaborations, PhD mentoring, and deep learning discussions.</p>
+                <div class="h-1.5 w-20 bg-primary mx-auto rounded-full mt-6"></div>
+            </div>
+
+            <div class="flex flex-col items-center gap-10 mb-20" data-aos="fade-up">
+                <div class="flex gap-8">
+                    <a href="mailto:jf.cevallosmoreno@uninsubria.it" class="w-14 h-14 bg-primary rounded-full flex items-center justify-center text-2xl hover:scale-110 hover:rotate-6 transition shadow-lg shadow-primary/20"><i class="fa-solid fa-envelope"></i></a>
+                    <a href="https://www.linkedin.com/in/jesuscevallos/" target="_blank" class="w-14 h-14 bg-[#0A66C2] rounded-full flex items-center justify-center text-2xl hover:scale-110 hover:-rotate-6 transition shadow-lg shadow-blue-600/20"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://x.com/JesusCevallos9" target="_blank" class="w-14 h-14 bg-black rounded-full flex items-center justify-center text-2xl hover:scale-110 hover:rotate-6 transition border border-white/20 shadow-lg shadow-white/5"><i class="fa-brands fa-x-twitter"></i></a>
+                </div>
+                <div class="text-center">
+                    <p class="text-xl font-bold mb-2">🏢 Academic Office</p>
+                    <p class="text-gray-400">DiSTA, University of Insubria, Varese, Italy</p>
+                </div>
+            </div>
+
+            <div class="border-t border-white/10 pt-12 text-center">
+                <p class="italic text-gray-500 mb-6 font-mono text-sm max-w-2xl mx-auto">"Creativity, communication and commitment for the team. That's leadership."</p>
+                <div class="flex flex-col items-center gap-6">
+                    <img src="https://komarev.com/ghpvc/?username=QwertyJacob&color=FF6B6B&style=for-the-badge&label=VISITORS" alt="Visitors" class="h-8">
+                    <p class="text-xs text-gray-600 uppercase tracking-widest font-semibold">&copy; 2025 Jesús F. Cevallos-Moreno. Built with Tailwind CSS & ❤️</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- AOS Script -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000,
+            once: true,
+            offset: 120,
+            easing: 'ease-out-cubic'
+        });
+    </script>
+</body>
+</html>
