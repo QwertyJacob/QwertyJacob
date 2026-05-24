@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" width="150" height="150" style="border-radius: 50%; border: 5px solid #FF6B6B; margin-top: -75px; position: relative; z-index: 1;" alt="Profile Picture Placeholder">
+  <img src="profile.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #FF6B6B; margin-top: -75px; position: relative; z-index: 1;" alt="Jesús F. Cevallos-Moreno">
   <br><br>
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jes%C3%BAs+F.+Cevallos-Moreno;Postdoc+Researcher+%40+Insubria;Lecturer+%40+Insubria;Neural+Algorithmic+Reasoning+Expert" alt="Typing SVG" /></h1>
 

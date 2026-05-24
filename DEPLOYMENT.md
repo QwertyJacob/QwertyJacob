@@ -10,6 +10,7 @@ To make your website available at **`https://qwertyjacob.github.io`** (instead o
 ### 2. Move the Website Code
 *   Copy the `index.html` file from this repository (`QwertyJacob`).
 *   Upload/Commit `index.html` to the **root** of your new `qwertyjacob.github.io` repository.
+*   **Profile Picture:** Rename your profile photo to `profile.jpg` and upload it to the same repository.
 
 ### 3. Enable GitHub Pages
 *   In your new repository, go to **Settings** > **Pages**.
