@@ -10,7 +10,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2752--4616-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2752-4616)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesuscevallos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesuscevallos/)
 [![Twitter](https://img.shields.io/badge/X-@JesusCevallos9-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JesusCevallos9)
-[![Website](https://img.shields.io/badge/Website-dista.uninsubria.it-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.dista.uninsubria.it/~jesus.cevallos/)
+[![Website](https://img.shields.io/badge/Website-Personal--Page-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qwertyjacob.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=26o39YMAAAAJ&hl=en)
 </div>
 
@@ -39,66 +39,51 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Ethical-AI & NLMs
+### 🛡️ Ethical-AI & Human-Centric
 
 *   **[Open-Ethical AI: Advances in Human-Centric NLMs](https://dl.acm.org/doi/10.1145/3703454)**
     *ACM Computing Surveys, 2024*
     [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://dl.acm.org/doi/10.1145/3703454)
 
-*   **[Ethical Treatment of Language Models](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174914038.83893553)**
-    *TechRXiv Preprint, 2026*
+*   **[Ethical Treatment of Language Models](https://www.sciencedirect.com/science/article/pii/S0952197626005981)**
+    *EAAI, 2026*
     [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0952197626005981) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QwertyJacob/genetica)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Neural Algorithmic Reasoning
-
-*   **[NERO: Neural Reasoning for IoT](https://www.sciencedirect.com/science/article/pii/S0167404824002001)**
-    *Computers & Security, 2024*
-    [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0167404824002001) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QwertyJacob/NERO)
-
-*   **[HERO: High-dim traffic to Zero-Day](https://www.sciencedirect.com/science/article/pii/S1389128625002324)**
-    *Computer Networks, 2025*
-    [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S1389128625002324) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QwertyJacob/HERO)
-
-</td>
-</tr>
-</table>
-
-<table border="0">
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Inductive Biases & Active Inference
-
-*   **[ACID: Active Inference for Active Cyber-Defence](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence)**
-    *TechRXiv Preprint, 2025*
-    [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DISTA-IoT/smartville)
-
-*   **[ASAP: Automatic Synthesis of Attack Prototypes](https://www.sciencedirect.com/science/article/pii/S1389128624006601)**
-    *Computer Networks, 2024*
-    [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S1389128624006601) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DISTA-IoT/smartville)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Collaborations & Projects
-
-*   **[Deep RL for vCDN SFC Deployment](https://www.mdpi.com/1999-5903/13/11/278)**
-    *Future Internet, 2021*
-    [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.mdpi.com/1999-5903/13/11/278) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QwertyJacob/e2d4qn_vcdn_sfc_deployment)
 
 *   **[DeepReGraph: Graph Learning for Gene Regulation](https://f1000research.com/articles/11-518)**
     *F1000Research, 2022*
     [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://f1000research.com/articles/11-518) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QwertyJacob/DeepReGraph)
 
-*   **[SERENA-IIoT: Secure & Reliable IoT](http://serenaiiot.dista.uninsubria.it)**
-    [![Website](https://img.shields.io/badge/Website-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](http://serenaiiot.dista.uninsubria.it) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DIETI-DISTA-IoT/SereBench)
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Neural Reasoning & Security
+
+*   **[HERO: High-dim traffic to Zero-Day](https://www.sciencedirect.com/science/article/pii/S1389128625002324)**
+    *Computer Networks, 2025*
+    [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S1389128625002324) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QwertyJacob/HERO)
+
+*   **[ASAP: Automatic Synthesis of Attack Prototypes](https://www.sciencedirect.com/science/article/pii/S1389128624006601)**
+    *Computer Networks, 2024*
+    [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S1389128624006601) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DISTA-IoT/smartville)
+
+*   **[NERO: Neural Reasoning for zeRO-day in IoT](https://www.sciencedirect.com/science/article/pii/S0167404824002001)**
+    *Computers & Security, 2024*
+    [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=flat-square&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0167404824002001) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QwertyJacob/NERO)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>See More Publications</b></summary>
+<br>
+
+*   **[ACID: Active Inference for Active Cyber-Defence](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence)** (2025)
+*   **[Deep RL for Intrusion Detection in IoT](https://www.sciencedirect.com/science/article/pii/S1389128623004619)** (2023)
+*   **[Deep RL for vCDN SFC Deployment](https://www.mdpi.com/1999-5903/13/11/278)** (2021)
+*   **[HR-specific NLP for Skills Classification](https://qwertyjacob.github.io)** (2022)
+
+</details>
 
 ---
 
@@ -141,8 +126,6 @@
 | **AI & Anthropology** | UTPL (Ecuador), 2024 | [![Slides](https://img.shields.io/badge/Slides-00C7B7?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/design/DAGnb0BE-nQ/Ftz1zY-xy0e6j8oFoqixDA/view) [![YouTube](https://img.shields.io/badge/Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=xPx6QKY4InM) |
 | **Inductive Biases** | Federico II Univ, 2024 | [![Slides](https://img.shields.io/badge/Slides-00C7B7?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/design/DAGQWFO1zls/h-t85UhVlwthTTNjcLNeYQ/view) |
 | **AI working principles** | Insubria University, 2024 | [![Slides](https://img.shields.io/badge/Slides-00C7B7?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/design/DAGUOyGESSE/6j2h1A14A7_3iowuPftK2g/view) |
-| **ML meets IoT** | Insubria University, 2023 | [![Slides](https://img.shields.io/badge/Slides-00C7B7?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/design/DAGJDK1WUKE/W_Lg-aG-pHOrssSHnEi6Bg/view) |
-| **AI and Cybersecurity** | Insubria University, 2023 | [![Slides](https://img.shields.io/badge/Slides-00C7B7?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/design/DAF0D9SRgL8/bZ-BtJuqrG27mzxosv7hhg/view) |
 
 </details>
 
