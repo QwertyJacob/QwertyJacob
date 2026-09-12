@@ -39,12 +39,12 @@ Survey on open-source ethical AI developments
 [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://dl.acm.org/doi/10.1145/3703454)
 ---
 
-### 🧠 [Ethical Treatment of Language Models Against Harmful Inference-Time Interventions](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174914038.83893553)  
-*TechRXiv Preprint, 2026*  
+### 🧠 [Ethical Treatment of Language Models Against Harmful Inference-Time Interventions](https://www.sciencedirect.com/science/article/pii/S0952197626005981)  
+*Engineering Applications of Artificial Intelligence, Vol 172, 2026*  
 Can LLMs resist harmful representation engineering???
 
 
-[![Preprint](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174914038.83893553)
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0952197626005981)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QwertyJacob/genetica) ![Stars](https://img.shields.io/github/stars/QwertyJacob/genetica?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -76,6 +76,16 @@ Full firepower of the Neural Algorithmic Reasoning paradigm for zero-day attack 
 
 ---
 
+### 🏙️ [SmartVille: A Framework for Realistic Deep Learning-Based Online Network Intrusion Detection](https://doi.org/10.1007/s10922-026-10097-8)  
+*Journal of Network and Systems Management (2026)*  
+The open, live testbed behind NERO, HERO and ASAP: online, open-world intrusion detection.
+
+
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://doi.org/10.1007/s10922-026-10097-8)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/insubria-smartville) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/insubria-smartville?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 </td>
 </tr>
 </table>
@@ -92,11 +102,21 @@ Full firepower of the Neural Algorithmic Reasoning paradigm for zero-day attack 
 
 A powerful optimal-control framework needs a powerful task to be tested against!
 
-[📖 Read Paper](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence) | [📂 Code Repository](https://github.com/DISTA-IoT/smartville) 
+[📖 Read Paper](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence) | [📂 Code Repository](https://github.com/DISTA-IoT/insubria-smartville) 
 
 
 [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/smartville) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/smartville?style=for-the-badge&logo=github&logoColor=white)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/insubria-smartville) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/insubria-smartville?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🐯 [TIGER: an open-source cyber-Threat Intelligence Game Environment for Reinforcement learning](https://doi.org/10.1109/TNSM.2026.3732249)  
+*IEEE Transactions on Network and Service Management, 2026*  
+
+A game environment to train and benchmark RL agents on cyber-threat-intelligence tasks.
+
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://doi.org/10.1109/TNSM.2026.3732249)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/tiger) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/tiger?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -105,7 +125,7 @@ A powerful optimal-control framework needs a powerful task to be tested against!
 End-to-end online-learning approach using the **relational-bottleneck Inductive Bias** for Prototype attack synthesis from raw network traffic.
 
 [![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S1389128624006601)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/smartville) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/smartville?style=for-the-badge&logo=github&logoColor=white)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/insubria-smartville) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/insubria-smartville?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -143,6 +163,33 @@ Deep learning approach for understanding embryonic regulatory mechanisms through
 **Collaborative research on secure and reliable IoT systems. Check out our project website!**
 
 [![Website](https://img.shields.io/badge/Website-dista.uninsubria.it-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://serenaiiot.dista.uninsubria.it) [![Repo](https://img.shields.io/badge/SereBench-repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIETI-DISTA-IoT/SereBench) ![Stars](https://img.shields.io/github/stars/DIETI-DISTA-IoT/SereBench?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚆 [SereWay: Toward SEcurity and REliability Benchmarking for the RailWAY IIoT](https://link.springer.com/article/10.1007/s10922-025-10026-1)
+*Journal of Network and Systems Management (2026)*
+
+Open-source testbed benchmarking ML-based security & reliability solutions for the railway IIoT.
+
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://link.springer.com/article/10.1007/s10922-025-10026-1) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIETI-DISTA-IoT/SereWay) ![Stars](https://img.shields.io/github/stars/DIETI-DISTA-IoT/SereWay?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚉 [Open-FARI: An Open-source testbed for Federated Anomaly detection in the Railway IIoT](https://www.dicom.uninsubria.it/~sabrina.sicari/public/documents/2025_OPENFARI.pdf)
+*IWCMC 2025*
+
+First open-source testbed for federated-learning benchmarking in the railway domain.
+
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.dicom.uninsubria.it/~sabrina.sicari/public/documents/2025_OPENFARI.pdf) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIETI-DISTA-IoT/OF) ![Stars](https://img.shields.io/github/stars/DIETI-DISTA-IoT/OF?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🧬 [Learning at the nano-scale: how to dynamically protect data in nano-network transmissions](https://link.springer.com/article/10.1007/s12243-026-01203-7)
+*Annals of Telecommunications (2026)*
+
+DNA-based bio-molecular cryptography meets ML-driven security configuration for the Internet of Nano-Things.
+
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://link.springer.com/article/10.1007/s12243-026-01203-7)
 
 </td>
 </tr>
