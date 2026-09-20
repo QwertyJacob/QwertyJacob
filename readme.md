@@ -133,14 +133,15 @@ The open, live testbed behind NERO, HERO and ASAP: online, open-world intrusion 
 ---
 
 ### 🧠 [ACID: beta-testing ACtive Inference for active cyber-Defence](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence)  
-*TechRXiv Preprint, 2025*  
+*Journal of Reliable Intelligent Environments (Springer) — Accepted, In Press*  
 
 A powerful optimal-control framework needs a powerful task to be tested against!
 
-[📖 Read Paper](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence) | [📂 Code Repository](https://github.com/DISTA-IoT/insubria-smartville) 
+[📖 Read Preprint](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence) | [📂 Code Repository](https://github.com/DISTA-IoT/insubria-smartville) 
 
 
-[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence)
+![In Press](https://img.shields.io/badge/Accepted-In%20Press-2EA043?style=for-the-badge&logo=springer&logoColor=white)
+[![Preprint](https://img.shields.io/badge/Preprint-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/insubria-smartville) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/insubria-smartville?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -198,6 +199,16 @@ Deep learning approach for understanding embryonic regulatory mechanisms through
 **Collaborative research on secure and reliable IoT systems. Check out our project website!**
 
 [![Website](https://img.shields.io/badge/Website-dista.uninsubria.it-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://serenaiiot.dista.uninsubria.it) [![Repo](https://img.shields.io/badge/SereBench-repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIETI-DISTA-IoT/SereBench) ![Stars](https://img.shields.io/github/stars/DIETI-DISTA-IoT/SereBench?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🛡️ [SereBench: Adversarial Robustness Benchmarking for Security and Reliability Event Classification in Networked Railway Cyber-Physical Systems](https://github.com/DIETI-DISTA-IoT/SereBench)
+*Computer Networks (Elsevier) — Accepted, In Press*
+
+How far can adversarial perturbations push ML-based security & reliability event classifiers in the railway IIoT?
+
+![In Press](https://img.shields.io/badge/Accepted-In%20Press-2EA043?style=for-the-badge&logo=elsevier&logoColor=white)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIETI-DISTA-IoT/SereBench) ![Stars](https://img.shields.io/github/stars/DIETI-DISTA-IoT/SereBench?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
