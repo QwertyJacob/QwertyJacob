@@ -132,16 +132,16 @@ The open, live testbed behind NERO, HERO and ASAP: online, open-world intrusion 
 ### 🧪 Inductive Biases for cybersecurity
 ---
 
-### 🧠 [ACID: beta-testing ACtive Inference for active cyber-Defence](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence)  
+### 🧠 [ACID: beta-testing ACtive Inference for active cyber-Defence](https://drive.google.com/file/d/1KrTEkmps82YnPEeX8qk7mXyOOXCqfmjT/view?usp=sharing)  
 *Journal of Reliable Intelligent Environments (Springer) — Accepted, In Press*  
 
 A powerful optimal-control framework needs a powerful task to be tested against!
 
-[📖 Read Preprint](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence) | [📂 Code Repository](https://github.com/DISTA-IoT/insubria-smartville) 
+[📖 Read Preprint](https://drive.google.com/file/d/1KrTEkmps82YnPEeX8qk7mXyOOXCqfmjT/view?usp=sharing) | [📂 Code Repository](https://github.com/DISTA-IoT/insubria-smartville) 
 
 
 ![In Press](https://img.shields.io/badge/Accepted-In%20Press-2EA043?style=for-the-badge&logo=springer&logoColor=white)
-[![Preprint](https://img.shields.io/badge/Preprint-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.techrxiv.org/users/925680/articles/1350771-acid-beta-testing-active-inference-for-active-cyber-defence)
+[![Preprint](https://img.shields.io/badge/Preprint-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://drive.google.com/file/d/1KrTEkmps82YnPEeX8qk7mXyOOXCqfmjT/view?usp=sharing)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/insubria-smartville) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/insubria-smartville?style=for-the-badge&logo=github&logoColor=white)
 
 ---
