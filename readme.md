@@ -202,12 +202,12 @@ Deep learning approach for understanding embryonic regulatory mechanisms through
 
 ---
 
-### 🛡️ [SereBench: Adversarial Robustness Benchmarking for Security and Reliability Event Classification in Networked Railway Cyber-Physical Systems](https://github.com/DIETI-DISTA-IoT/SereBench)
-*Computer Networks (Elsevier) — Accepted, In Press*
+### 🛡️ [SereBench: Adversarial Robustness Benchmarking for Security and Reliability Event Classification in Networked Railway Cyber-Physical Systems](https://doi.org/10.1016/j.comnet.2026.112775)
+*Computer Networks (Elsevier), 2026*
 
 How far can adversarial perturbations push ML-based security & reliability event classifiers in the railway IIoT?
 
-![In Press](https://img.shields.io/badge/Accepted-In%20Press-2EA043?style=for-the-badge&logo=elsevier&logoColor=white)
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://doi.org/10.1016/j.comnet.2026.112775)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIETI-DISTA-IoT/SereBench) ![Stars](https://img.shields.io/github/stars/DIETI-DISTA-IoT/SereBench?style=for-the-badge&logo=github&logoColor=white)
 
 ---
