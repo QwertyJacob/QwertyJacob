@@ -132,16 +132,12 @@ The open, live testbed behind NERO, HERO and ASAP: online, open-world intrusion 
 ### 🧪 Inductive Biases for cybersecurity
 ---
 
-### 🧠 [ACID: beta-testing ACtive Inference for active cyber-Defence](https://drive.google.com/file/d/1KrTEkmps82YnPEeX8qk7mXyOOXCqfmjT/view?usp=sharing)  
-*Journal of Reliable Intelligent Environments (Springer) — Accepted, In Press*  
+### 🧠 [ACID: beta-testing ACtive Inference for active cyber-Defence](https://doi.org/10.1007/s40860-026-00278-2)  
+*Journal of Reliable Intelligent Environments (Springer), 2026*  
 
 A powerful optimal-control framework needs a powerful task to be tested against!
 
-[📖 Read Preprint](https://drive.google.com/file/d/1KrTEkmps82YnPEeX8qk7mXyOOXCqfmjT/view?usp=sharing) | [📂 Code Repository](https://github.com/DISTA-IoT/insubria-smartville) 
-
-
-![In Press](https://img.shields.io/badge/Accepted-In%20Press-2EA043?style=for-the-badge&logo=springer&logoColor=white)
-[![Preprint](https://img.shields.io/badge/Preprint-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://drive.google.com/file/d/1KrTEkmps82YnPEeX8qk7mXyOOXCqfmjT/view?usp=sharing)
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://doi.org/10.1007/s40860-026-00278-2)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISTA-IoT/insubria-smartville) ![Stars](https://img.shields.io/github/stars/DISTA-IoT/insubria-smartville?style=for-the-badge&logo=github&logoColor=white)
 
 ---
