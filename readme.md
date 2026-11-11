@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🧠 I am postdoc researcher and lecturer @ University of Insubria 
+### 🧠 Researcher & Lecturer @ ICT Lab – LIUC University · Lecturer @ University of Insubria
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2752--4616-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2752-4616)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesuscevallos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesuscevallos/)
@@ -319,7 +319,7 @@ Tired of seaching for Active Inference complete tutorials without missing math p
 I'm always open to discussing research collaborations, interesting AI problems, or just chatting about the latest developments in deep learning and cybersecurity.
 
 📧 Email: jf.cevallosmoreno@uninsubria.it  
-🏢 Office: Department of Theoretical and Applied Science (DiSTA), University of Insubria, Varese, Italy
+🏢 Office: ICT Lab, LIUC University, Castellanza (VA), Italy – DiSTA, University of Insubria, Varese, Italy
 
 ---
 
