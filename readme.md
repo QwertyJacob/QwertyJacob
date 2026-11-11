@@ -91,6 +91,15 @@ Can LLMs resist harmful representation engineering???
 ## ⚙️ Neural Algorithmic Reasoning for Cybersecurity
 
 
+### 🧭 [**Generalist Intrusion Detection through Neural Algorithmic Alignment: Vision, Applications & Research Challenges**](https://www.sciencedirect.com/science/article/pii/S0952197626029374)  
+*Engineering Applications of Artificial Intelligence, Vol 187, 2027*  
+One model for many threats: aligning neural representations with algorithmic reasoning to generalize intrusion detection.
+
+[![Paper](https://img.shields.io/badge/Paper-1D70B8?style=for-the-badge&logo=open-access&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0952197626029374)
+[![Full Text](https://img.shields.io/badge/Full_Text-1E8E3E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kznmhqeXwxs6EieIQCMzhCSp7jNQTHto/view?usp=drive_link)
+
+---
+
 ### 💡 [**NERO: NEural algorithmic reasoning for zeRO-day attack detection in the IoT: A hybrid approach**](https://www.sciencedirect.com/science/article/pii/S0167404824002001)  
 *Computers & Security  (2024)*  
 Extreme value theory, the algorithmic way!
